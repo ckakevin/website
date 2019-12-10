@@ -1,0 +1,44 @@
+body{
+  background-color: #E10000;
+}
+
+#title{
+  font-family: 'Russo One', sans-serif;
+  font-size: 30pt;
+}
+
+.links{
+word-spacing: 200px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: 'Syncopate', sans-serif;
+font-weight: bold;
+}
+
+.news{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Syncopate', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+.line {
+    display: block;
+    overflow: hidden;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+}
+
+img {
+float: left;
+}
+
+.bodytext {
+  color: white;
+  font-family: 'Syncopate', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+}

@@ -1,0 +1,41 @@
+body{
+  animation-name: background-change;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+
+#title{
+  font-family: 'Russo One', sans-serif;
+  font-size: 30pt;
+}
+
+.links{
+word-spacing: 200px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: 'Syncopate', sans-serif;
+font-weight: bold;
+}
+
+.line {
+    display: block;
+    overflow: hidden;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
+
+.image{
+ margin-left: 170px;
+}
+
+@keyframes background-change{
+
+    from{background-color: #FACC2E;
+
+    }
+    to{background-color: blue;
+
+    }
+  }

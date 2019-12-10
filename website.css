@@ -1,0 +1,21 @@
+body{
+  background-color: #FACC2E;
+}
+
+#title{
+  font-family: verdana;
+  font-size: 25pt;
+}
+
+.line {
+
+    display: block;
+    margin-before: 0.5em;
+    margin-after: 0.5em;
+    margin-start: auto;
+    margin-end: auto;
+    overflow: hidden;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
